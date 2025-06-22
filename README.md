@@ -19,8 +19,8 @@ Passionate about building robust, high-performance, and secure projects while co
 ## 📊 Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mhergharibyan550&show_icons=true&theme=radical&count_private=true" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhergharibyan550&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhergharibyan550&show_icons=true&theme=radical&count_private=true" height="200" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhergharibyan550&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" width="50%" />
 </div>
 
 ## 🧰 Languages and Tools
