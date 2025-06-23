@@ -1,13 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Mher Gharibyan</h1>
 <h3 align="center">A passionate self-taught Software Developer from Armenia focused on building robust and responsive web applications.</h3>
 
-## ⭐ About Me 
-
-<p style="text-align: justify">A solution-oriented and self-taught Full Stack Developer with 1 year of work experience in software development.
-Specialties include: ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Tailwind CSS, Bootstrap, and more.
-Passionate about building robust, high-performance, and secure projects while collaborating with innovative companies and talented individuals.
-</p>
-
 ![GitHub User's stars](https://custom-icon-badges.demolab.com/github/stars/mhergharibyan550?style=for-the-badge&logo=star&logoColor=white&color=e2ac0e&labelColor=c79502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/mhergharibyan550?style=for-the-badge&color=246ad3&labelColor=1155b9&logo=person-add)](https://github.com/mhergharibyan550?tab=followers)
 [![Download CV](https://custom-icon-badges.demolab.com/badge/Download-CV-green?style=for-the-badge&labelColor=478207&color=57930f&logo=download)](https://drive.google.com/file/d/1IwuB4FBw2si6v6kdAT__5DX4AUC0Q9EI/view?usp=drive_link)
