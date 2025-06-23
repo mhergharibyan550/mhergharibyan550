@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Mher Gharibyan</h1>
-<h3 align="center">A passionate self-taught Software Developer from Armenia focused on building robust and responsive web applications.</h3>
+<h3 align="center">I'm a self-taught Software Developer from Armenia focused on building robust and responsive web applications.</h3>
 
 ![GitHub User's stars](https://custom-icon-badges.demolab.com/github/stars/mhergharibyan550?style=for-the-badge&logo=star&logoColor=white&color=e2ac0e&labelColor=c79502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/mhergharibyan550?style=for-the-badge&color=246ad3&labelColor=1155b9&logo=person-add)](https://github.com/mhergharibyan550?tab=followers)
