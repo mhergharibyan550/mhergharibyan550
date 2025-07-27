@@ -3,7 +3,7 @@
 
 ![GitHub User's stars](https://custom-icon-badges.demolab.com/github/stars/mhergharibyan550?style=for-the-badge&logo=star&logoColor=white&color=e2ac0e&labelColor=c79502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/mhergharibyan550?style=for-the-badge&color=246ad3&labelColor=1155b9&logo=person-add)](https://github.com/mhergharibyan550?tab=followers)
-[![Download CV](https://custom-icon-badges.demolab.com/badge/Download-CV-green?style=for-the-badge&labelColor=478207&color=57930f&logo=download)](https://drive.google.com/file/d/1oa20W-ygc353LZA162CedCoaRzSCk7Y1/view?usp=sharing)
+[![Download CV](https://custom-icon-badges.demolab.com/badge/Download-CV-green?style=for-the-badge&labelColor=478207&color=57930f&logo=download)](https://drive.google.com/file/d/1J6_CpEap-fG58QTG4oLYfoGW8dR8C3ir/view?usp=sharing)
 
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@MherGharibyan)
