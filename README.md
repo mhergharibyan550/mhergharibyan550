@@ -28,6 +28,7 @@
 <img height="55" width="55" title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
 <img height="55" width="55" title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwindcss" />
 <img height="55" width="55" title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<img height="55" width="55" title="Redux" src="https://skillicons.dev/icons?i=redux" />
 </div>
 
 ##
@@ -49,6 +50,7 @@
 <img height="55" width="55" title="Webpack" src="https://skillicons.dev/icons?i=webpack" />
 <img height="55" width="55" title="GitHub" src="https://skillicons.dev/icons?i=github" />
 <img height="55" width="55" title="Figma" src="https://skillicons.dev/icons?i=figma" />
+<img height="55" width="55" title="Jest" src="https://skillicons.dev/icons?i=jest" />
 </div>
 
 ## 🏆 GitHub Trophies
