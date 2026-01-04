@@ -6,7 +6,7 @@
 [![Download CV](https://custom-icon-badges.demolab.com/badge/Download-CV-green?style=for-the-badge&labelColor=478207&color=57930f&logo=download)](https://drive.google.com/uc?export=download&id=1BkfQ6Zn038t4haFf6Z0ZCXCWmWlfxWBF)
 
 ## 🔗 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@MherGharibyan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhergharibyan550)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mhergharibyan550/)
 
 ## 📊 Stats
