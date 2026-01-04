@@ -1,5 +1,4 @@
 <h1 align="center">Greetings 👋, I'm Mher Gharibyan</h1>
-<h3 align="center">I'm a self-taught Software Developer from Armenia focused on building robust and responsive web applications.</h3>
 
 ![GitHub User's stars](https://custom-icon-badges.demolab.com/github/stars/mhergharibyan550?style=for-the-badge&logo=star&logoColor=white&color=e2ac0e&labelColor=c79502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/mhergharibyan550?style=for-the-badge&color=246ad3&labelColor=1155b9&logo=person-add)](https://github.com/mhergharibyan550?tab=followers)
@@ -8,13 +7,6 @@
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhergharibyan550)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mhergharibyan550/)
-
-## 📊 Stats
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=mhergharibyan550&show_icons=true&theme=radical&count_private=true" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhergharibyan550&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" />
-</div>
 
 ## 🧰 Languages and Tools
 
@@ -52,7 +44,3 @@
 <img height="55" width="55" title="Figma" src="https://skillicons.dev/icons?i=figma" />
 <img height="55" width="55" title="Jest" src="https://skillicons.dev/icons?i=jest" />
 </div>
-
-## 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhergharibyan550" alt="mhergharibyan550" /></a> </p>
